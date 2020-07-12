@@ -1,0 +1,2 @@
+model_checkpoint_path: "har_model.chkp"
+all_model_checkpoint_paths: "har_model.chkp"
