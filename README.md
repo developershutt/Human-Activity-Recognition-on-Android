@@ -12,7 +12,7 @@ __Note__:This repository is for training neural network classifier.
 * pip3 install pyunpack
 * pip3 install patool
 
-## 0. I've made a video too with animated explanation and code for people who are lazy and can't read the following.
+## 0. I've made a video too with animated explanation and code for people who are lazy enough to read all text below.
 
 [![yYoutube Video](https://github.com/developershutt/Human-Activity-Recognition-on-Android/blob/master/images/Thumbnail.png)](https://www.youtube.com/watch?v=_OJpKnFqUes)
 
