@@ -4,11 +4,12 @@ __Note__:This repository is for training neural network classifier.
 
 ## Required packages
 
-* pip3 install tensorflow==1.13.1
-* pip3 install tensorflow-gpu==1.13.1
-* pip3 install keras==2.2.0
+* pip3 install tensorflow==2.3.0
+### or
+* pip3 install tensorflow-gpu==2.3.0
+* pip3 install keras==2.4.3
 * pip3 install pandas
-* pip3 install numpy==1.14
+* pip3 install numpy==1.19.1
 * pip3 install pyunpack
 * pip3 install patool
 
